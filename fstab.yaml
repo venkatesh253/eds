@@ -1,2 +1,2 @@
 mountpoints:
-/:https://drive.google.com/drive/u/0/folders/1Tk0yPkSPyX8GLnRUr64k8rWPFILBV2ia
+  /: "https://drive.google.com/drive/u/0/folders/1Tk0yPkSPyX8GLnRUr64k8rWPFILBV2ia"
